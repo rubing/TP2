@@ -95,7 +95,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #EDCCD7;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
@@ -106,9 +106,17 @@
 	color:#EC2387
 }
 
-h1, h2, h3
+h1, h2
 {
 
 	font-variant: small-caps;
 	text-align: center;
+}
+
+h1
+{
+
+	font-size: 280%;
+	text-decoration: overline;
+	color: #F00956;
 }
