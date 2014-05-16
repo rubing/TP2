@@ -62,7 +62,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #EC2387;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -99,4 +99,9 @@
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+}
+
+#footer a 
+{
+	color:#EC2387
 }
