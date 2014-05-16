@@ -105,3 +105,10 @@
 {
 	color:#EC2387
 }
+
+h1, h2, h3
+{
+
+	font-variant: small-caps;
+	text-align: center;
+}
